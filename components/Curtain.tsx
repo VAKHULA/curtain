@@ -83,9 +83,9 @@ const Curtain = ({
       {`
 
         .container {
-          position: fixed;
+          position: absolute;
           top: 0;
-          right: 0;
+          right: -17px;
           left: 0;
           bottom: 0;
           overflow-y: auto;
